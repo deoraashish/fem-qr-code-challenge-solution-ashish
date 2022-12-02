@@ -28,12 +28,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](http
 
 **My process**
 
-Step 1) Creating a new React Project using npx-create-react-app
-Step 2) From the project, I stripped off all the uncessary markup from the home page and app component and cleanned css files
-Step 3) Then I first built the HTML by adding the divs and structure
-Step 4) Then I designed them using CSS
-Step 5) And ultimately using Flexbox I placed them on the screen
-Step 6) To deploy I used Vercel CLI
+Step 1) Creating a new React Project using npx-create-react-app  
+Step 2) From the project, I stripped off all the uncessary markup from the home page and app component and cleanned css files  
+Step 3) Then I first built the HTML by adding the divs and structure  
+Step 4) Then I designed them using CSS  
+Step 5) And ultimately using Flexbox I placed them on the screen  
+Step 6) To deploy I used Vercel CLI  
 
 **Built with**
 
