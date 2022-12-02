@@ -21,9 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](http
 
 **Screenshot**
 
-![Graphical user interface, application
-
-Description automatically generated](Aspose.Words.ca3c550a-79df-46d5-97b6-3dea0188386d.001.png)
+![A simple QR Code](https://github.com/deoraashish/fem-qr-code-challenge-solution-ashish/blob/master/screenshots/screenshot1.png)
 
 **Links**
 
